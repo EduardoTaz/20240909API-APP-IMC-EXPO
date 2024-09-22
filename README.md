@@ -16,8 +16,8 @@
   
 # Instalação do projeto Backend (Node.js)
   **Clonar o repositório**
-  git clone https://github.com/EduardoTaz/20240909API-WEB-IMC-NODEJS.git
-  cd 20240909-API-IMC-NODEJS-2.0.1
+  * git clone https://github.com/EduardoTaz/20240909API-WEB-IMC-NODEJS.git
+  * cd 20240909-API-IMC-NODEJS-2.0.1
 
   **Instalar as dependências**
   * npm install
@@ -33,7 +33,7 @@
   **Instalar as dependências**
   * npm install expo
 
-  **Rodar o projeto**
+  **Rodar a aplicação**
   * npm run android
 
 # Como utilizar
