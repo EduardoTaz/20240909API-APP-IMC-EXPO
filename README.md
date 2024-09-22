@@ -17,7 +17,7 @@
 # Instalação do projeto Backend (Node.js)
   **Clonar o repositório**
   * git clone https://github.com/EduardoTaz/20240909API-WEB-IMC-NODEJS.git
-  * cd 20240909-API-IMC-NODEJS-2.0.1
+  * cd (pasta clonada)
 
   **Instalar as dependências**
   * npm install
@@ -28,7 +28,7 @@
 # Instalação do projeto Frontend (React Native com Expo) 
   **Clonar o repositório**
   * git clone https://github.com/EduardoTaz/20240909API-APP-IMC-EXPO.git
-  * cd 20240909-API-APP-IMC-EXPO-2.0.1
+  * cd (pasta clonada)
 
   **Instalar as dependências**
   * npm install expo
